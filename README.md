@@ -16,6 +16,7 @@ My primary work machine runs uses Ubuntu 19.04, while my on-the-go Macbook Pro u
 
 ### Fun Facts
 
+- Favorite game: Super Mario 64
 - Favorite shoe: New Balance 24
 - Favorite beverage: Dr. Pepper
 - Favorite show: Seinfeld
