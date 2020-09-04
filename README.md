@@ -6,7 +6,7 @@ Although I love both computers and electronics, I tend to focus on the software 
 
 ### Stack
 
-My languages of choice are either Haxe, Javascript / Typescript, or Go. or For web applications, I typically use React alongside a Node.js backend with MongoDB. 
+My languages of choice are either Haxe, Javascript / Typescript, or Go. For web applications, I typically use React alongside a Node.js backend with MongoDB. 
 When developing games, depending on the scope of the project, I either develop my own tools or use Godot. When it comes to libraries, I always use open source 
 projects unless there are no alternatives.
 
