@@ -12,7 +12,7 @@ projects unless there are no alternatives.
 
 ### Specs
 
-My primary work machine runs uses Ubuntu 19.04, while my on-the-go Macbook Pro uses macOS 10.15.6. I use a Das Keyboard (Mac edition) with Cherry MX Blue switches, as well as a Apple Extended II keyboard with ALPS salmon switches.
+My primary work machine runs uses Pop!_OS, while my on-the-go Macbook Pro uses macOS 10.15.6. I use a Das Keyboard (Mac edition) with Cherry MX Blue switches, as well as a Apple Extended II keyboard with ALPS salmon switches.
 
 ### Fun Facts
 
