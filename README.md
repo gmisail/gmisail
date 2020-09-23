@@ -14,6 +14,7 @@ previously used both a Das Keyboard Series S (Cherry MX Blues) as well as an App
 - Favorite game: Super Mario 64
 - Favorite beverage: Dr. Pepper
 - Favorite show: Seinfeld
+- Favorite switch: Zealios v2
 
 ### Stats
 
@@ -23,18 +24,3 @@ previously used both a Das Keyboard Series S (Cherry MX Blues) as well as an App
 
 - Email: gmisail64@gmail.com
 - Personal Site: [gmisail.me](gmisail.me)
-
-<!--
-**gmisail/gmisail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
