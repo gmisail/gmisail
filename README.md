@@ -6,7 +6,8 @@ Although I love both computers and electronics, I tend to focus on the software 
 
 ### Specs
 
-My primary work machine runs uses Pop!_OS, while my on-the-go Macbook Pro uses macOS 10.15.6. I use a Das Keyboard (Mac edition) with Cherry MX Blue switches, as well as a Apple Extended II keyboard with ALPS salmon switches.
+My primary work machine runs Pop!_OS, while my on-the-go Macbook Pro uses macOS 10.15.6. I currently use a KBD75 keyboard with Zealios v2 62g switches, but I have 
+previously used both a Das Keyboard Series S (Cherry MX Blues) as well as an Apple Extended II keyboard (ALPS Salmon.)
 
 ### Fun Facts
 
